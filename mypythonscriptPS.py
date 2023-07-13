@@ -2,7 +2,8 @@ import os
 import requests
 import json
 
-print('hola Mundo x2')
+def main():
+    print('hola Mundo x2')
 
 # SUBSCRIPTION_ID = os.environ["subscription_id"]
 # TENANT_ID = os.environ["tenant_id"]
